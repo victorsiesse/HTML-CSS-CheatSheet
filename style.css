@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+p, h1, h2, h3 { 
+    font-family: 'Roboto', sans-serif;
+}
+
+.code {
+    font-family: 'Space Mono', monospace;
+}
+
+footer {
+    background-color: red;
+    height: 80px;
+    text-align: center;
+}
